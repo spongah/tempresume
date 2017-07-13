@@ -844,7 +844,7 @@ left: 0%;
 .lightbox-target:target a.lightbox-close {
 top: 0px;
 }
-a.lightbox img:hover { 
+a.lightbox img:hover {
  background:#21A957;
 }
 /*--//projects--*/
@@ -924,15 +924,15 @@ a.lightbox img:hover {
 }
 
 :-moz-placeholder { /* Firefox 18- */
-   color: rgba(255, 255, 255, 0.65); 
+   color: rgba(255, 255, 255, 0.65);
 }
 
 ::-moz-placeholder {  /* Firefox 19+ */
-   color: rgba(255, 255, 255, 0.65);  
+   color: rgba(255, 255, 255, 0.65);
 }
 
-:-ms-input-placeholder {  
-   color: rgba(255, 255, 255, 0.65);  
+:-ms-input-placeholder {
+   color: rgba(255, 255, 255, 0.65);
 }
 /*--//placeholder-color--*/
 
@@ -971,7 +971,7 @@ a.lightbox img:hover {
 	bottom: 20px;
 	right: 2%;
 	overflow: hidden;
-	z-index: 999; 
+	z-index: 999;
 	width: 32px;
 	height: 32px;
 	border: none;
@@ -992,7 +992,7 @@ a.lightbox img:hover {
 /*-- //to-top --*/
 /*--responsive--*/
 @media(max-width:1680px){
-	
+
 }
 @media(max-width:1440px){
 	.header {
@@ -1417,7 +1417,7 @@ a.lightbox img:hover {
 	.contact-agileits-w3layouts p {
 		font-size: 13.5px;
 	}
-	
+
 }
 @media(max-width:800px){
 	h4.title-w3ls {
@@ -1560,7 +1560,8 @@ a.lightbox img:hover {
 	.banner {
 		background: url(../images/banner.jpg) no-repeat -60px 0px;
 		background-size: cover;
-		margin-bottom: 32.8em;
+		/*margin-bottom: 32.8em;*/
+    margin-bottom: 12.45em;
 	}
 	.banner-right-w3-agileits iframe {
 		height: 215px;
@@ -1588,7 +1589,8 @@ a.lightbox img:hover {
 		padding: 65px 0px;
 	}
 	.banner {
-		margin-bottom: 32.9em;
+		/*margin-bottom: 32.9em;*/
+    margin-bottom: 12.45em;
 		min-height: 348px;
 	}
 	.banner-btm-grid-w3ls {
@@ -1613,7 +1615,8 @@ a.lightbox img:hover {
 		top: 14.8em;
 	}
 	.banner {
-		margin-bottom: 32.4em;
+		/*margin-bottom: 32.4em;*/
+    margin-bottom: 12.45em;
 		min-height: 327px;
 	}
 	h4.title-w3ls {
@@ -1655,7 +1658,8 @@ a.lightbox img:hover {
 		top: -27%;
 	}
 	.banner {
-		margin-bottom: 31.6em;
+		/*margin-bottom: 31.6em;*/
+    margin-bottom: 12.45em;
 		min-height: 310px;
 	}
 	h5.sub {
@@ -1755,7 +1759,8 @@ a.lightbox img:hover {
 		margin: 3px !important;
 	}
 	.banner {
-		margin-bottom: 26.99em;
+		/*margin-bottom: 26.99em;*/
+    margin-bottom: 12.45em;
 		min-height: 270px;
 	}
 	.banner-right-w3-agileits {
@@ -1850,7 +1855,8 @@ a.lightbox img:hover {
 		padding: 1em .8em 2em;
 	}
 	.banner {
-		margin-bottom: 28.45em;
+		/*margin-bottom: 28.45em;*/
+    margin-bottom: 12.45em;
 		min-height: 240px;
 	}
 	.banner-btm-grid-w3ls {
@@ -1918,7 +1924,8 @@ a.lightbox img:hover {
 		font-size: 18px;
 	}
 	.banner {
-		margin-bottom: 29.79em;
+		/*margin-bottom: 29.79em;*/
+    margin-bottom: 12.45em;
 		background: url(../images/banner.jpg) no-repeat -25px 0px;
 		background-size: cover;
 		min-height: 205px;
@@ -1987,7 +1994,8 @@ a.lightbox img:hover {
 		top: 10.4em;
 	}
 	.banner {
-		margin-bottom: 30.45em;
+		/*margin-bottom: 30.45em;*/
+    margin-bottom: 14.45em;
 		background: url(../images/banner.jpg) no-repeat -16px 0px;
 		background-size: cover;
 		min-height: 192px;
@@ -2044,7 +2052,8 @@ a.lightbox img:hover {
 		font-size: 11.5px;
 	}
 	.banner {
-		margin-bottom: 29.2em;
+		/* margin-bottom: 29.2em; */
+    margin-bottom: 17.45em;
 		background: url(../images/banner.jpg) no-repeat -5px 0px;
 		background-size: cover;
 		min-height: 160px;
