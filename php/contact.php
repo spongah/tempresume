@@ -3,8 +3,8 @@ function checkInput($data) {
   $data = trim($data);
   $data = stripslashes($data);
   $data = htmlspecialchars($data);
-  return $data
-};
+  return $data;
+}
 
 $name = checkInput($_POST['name']);
 $email = checkInput($_POST['email']);
