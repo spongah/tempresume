@@ -15,5 +15,5 @@ $recipient = "ericeschelbach@gmail.com";
 $subject = "Contact Form from EricEschelbach.com";
 $mailheader = "From: $email \r\n";
 mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
-header("Location: ../index.ejs");
+header("Location: ../index.html");
 ?>
